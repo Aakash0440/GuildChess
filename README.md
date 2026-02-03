@@ -151,8 +151,5 @@ and coordinate on @monad_xyz blockchain.
 
 Perfect fit for Gaming Arena Agent bounty 🎯
 
-🎬 Demo: [link]
-💻 Code: [github]
-🌐 Live: [deployed-link]
 
 #MOLTIVERSE #Monad #AIAgents #BuildInPublic
